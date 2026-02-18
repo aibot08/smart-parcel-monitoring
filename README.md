@@ -1,5 +1,17 @@
 # smart-parcel-monitoring
 Smart parcel tampering detection system with real-time sensor monitoring, anomaly detection, and web dashboard visualization.
+
+![Block Diagram](block-diagram.png)
+
+## How It Works
+
+1. LDR monitors ambient light conditions inside the parcel.
+2. Vibration sensor detects physical disturbance.
+3. ESP32 processes sensor inputs using threshold-based logic.
+4. If tampering is detected, event is logged with timestamp.
+5. OLED displays real-time parcel status.
+
+
 ## Features
 
 - Real-time sensor data monitoring
@@ -18,4 +30,5 @@ Smart parcel tampering detection system with real-time sensor monitoring, anomal
 - OLED Display (SSD1306)
 ## System Architecture
 
-![Block Diagram](block-diagram.png)
+
+
