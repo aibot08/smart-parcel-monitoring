@@ -1,6 +1,6 @@
 # smart-parcel-monitoring
 Smart parcel tampering detection system with real-time sensor monitoring, anomaly detection, and web dashboard visualization.
-
+## System Architecture
 ![Block Diagram](block-diagram.png)
 
 ## How It Works
@@ -28,7 +28,7 @@ Smart parcel tampering detection system with real-time sensor monitoring, anomal
 - LDR Sensor
 - Vibration Sensor
 - OLED Display (SSD1306)
-## System Architecture
+
 
 
 
