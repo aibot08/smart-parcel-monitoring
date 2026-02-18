@@ -16,3 +16,6 @@ Smart parcel tampering detection system with real-time sensor monitoring, anomal
 - LDR Sensor
 - Vibration Sensor
 - OLED Display (SSD1306)
+## System Architecture
+
+![Block Diagram](block-diagram.png)
